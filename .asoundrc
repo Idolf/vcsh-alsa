@@ -1,0 +1,5 @@
+pcm.wut {
+    type hw
+    card 0
+    device 3
+}
